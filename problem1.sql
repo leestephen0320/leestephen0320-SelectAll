@@ -1,2 +1,2 @@
 SELECT *
-FROM songs;
+FROM song;
